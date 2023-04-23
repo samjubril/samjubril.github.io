@@ -16,13 +16,14 @@ This is the [link](https://github.com/users/samjubril/projects/2) to the Github 
 
 A live demo is already available via this [link](https://samjubril.github.io/)
 
-## Tools Used
-
-Below are are list of tools used:
+## Tech Stack
 
 - HTML
 - CSS
 - JavaScript
+
+## Tools Used
+
 - Atom IDE
 - GitHub
 
